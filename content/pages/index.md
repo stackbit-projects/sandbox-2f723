@@ -27,19 +27,6 @@ sections:
   - type: features_section
     title: Features
     features:
-      - title: Feature 1
-        content: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.![](/images/eleanor-carr.jpg)
-        align: left
-        image: images/feature.svg
-        image_alt: Feature 1 placeholder image
-        image_position: right
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
       - title: lorem-ipsum
         content: >-
           ## Lorem ipsum
