@@ -14,7 +14,7 @@ sections:
         url: /contact
         style: secondary
     align: center
-    image: /images/3.png
+    image: /images/hanson-deck.jpg
     image_alt: Hero placeholder image
     image_position: right
     has_background: true
